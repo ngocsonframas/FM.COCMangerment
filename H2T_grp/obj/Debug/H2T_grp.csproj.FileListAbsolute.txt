@@ -1,0 +1,1067 @@
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe.config
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Debug\H2T_grp.pdb
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Debug\H2T_KHSX.dll
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Debug\H2T_KT.dll
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.dll
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Debug\H2T_KHSX.pdb
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Debug\H2T_KT.pdb
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Debug\H2T_grp.pdb
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Debug\H2T_ServerListen.dll
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Debug\H2T_ServerListen.pdb
+E:\doing\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe.config
+E:\doing\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe
+E:\doing\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.pdb
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe.config
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.pdb
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_grp.pdb
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_KHSX.dll
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_KT.dll
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.dll
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_ServerListen.dll
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_ServerListen.pdb
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_KHSX.pdb
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_KT.pdb
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+E:\doing-r\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+E:\doing-master\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe.config
+E:\doing-master\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe
+E:\doing-master\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.pdb
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe.config
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_grp.pdb
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_KHSX.dll
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_KT.dll
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.dll
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_ServerListen.dll
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_KT.pdb
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_ServerListen.pdb
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\bin\Debug\H2T_KHSX.pdb
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T_grp\H2T_grp\obj\Debug\H2T_grp.pdb
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe.config
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\obj\Debug\H2T_grp.pdb
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\bin\Debug\H2T_grp.pdb
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\bin\Debug\H2T_KHSX.dll
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\bin\Debug\H2T_KT.dll
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.dll
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\bin\Debug\H2T_ServerListen.dll
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\bin\Debug\H2T_KT.pdb
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\bin\Debug\H2T_ServerListen.pdb
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\bin\Debug\H2T_KHSX.pdb
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+E:\doing-master-rx\viet phan mem ket noi + quan tri chung+ connect sap\H2T da chinh server_client\H2T_grp\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\source huy\h2t ok\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\source huy\h2t ok\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe
+D:\source huy\h2t ok\H2T_grp\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\source huy\h2t ok\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe
+D:\source huy\h2t ok\H2T_grp\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\source huy\h2t ok\H2T_grp\H2T_grp\bin\Debug\H2T_KHSX.dll
+D:\source huy\h2t ok\H2T_grp\H2T_grp\bin\Debug\H2T_KT.dll
+D:\source huy\h2t ok\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\source huy\h2t ok\H2T_grp\H2T_grp\bin\Debug\H2T_ServerListen.dll
+D:\source huy\h2t ok\H2T_grp\H2T_grp\bin\Debug\H2T_KT.pdb
+D:\source huy\h2t ok\H2T_grp\H2T_grp\bin\Debug\H2T_KHSX.pdb
+D:\source huy\h2t ok\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\source huy\h2t ok\H2T_grp\H2T_grp\bin\Debug\H2T_ServerListen.pdb
+D:\source huy\h2t ok\H2T_grp\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+D:\source huy\h2t ok\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\source huy\h2t ok\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\source huy\h2t ok\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\source huy\h2t ok\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\source huy\h2t ok\H2T_grp\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\source huy\h2t ok\H2T_grp\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\source huy\h2t ok\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\source huy\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\source huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe
+D:\source huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\source huy\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe
+D:\source huy\H2T_grp\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\source huy\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\source huy\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\source huy\H2T_grp\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+D:\source huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\source huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\source huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\source huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\source huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\source huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\source huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\source huy\H2T_grp\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+D:\Huy\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\Huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe
+D:\Huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\Huy\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe
+D:\Huy\H2T_grp\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\Huy\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\Huy\H2T_grp\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+D:\Huy\H2T_grp\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+D:\Huy\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\Huy\H2T_grp\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+D:\Huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\Huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\Huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\Huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\Huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\Huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\Huy\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\source huy\H2T_grp\H2T_grp\bin\Debug\Barcode.dll
+D:\source huy\H2T_grp\H2T_grp\bin\Debug\Barcode.pdb
+D:\source huy\H2T_grp\H2T_grp\bin\Debug\office.dll
+D:\source huy\H2T_grp\H2T_grp\bin\Debug\Interop.Excel.dll
+D:\source huy\H2T_grp\H2T_grp\bin\Debug\office.xml
+D:\source huy\H2T_grp\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\bin\Debug\H2T_grp.exe
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\bin\Debug\Barcode.dll
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\bin\Debug\office.dll
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\bin\Debug\Interop.Excel.dll
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\bin\Debug\Barcode.pdb
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\bin\Debug\office.xml
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\source huy\SHOWROOM_BL\H2T_grp\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\obj\Debug\H2T_grp.exe
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\bin\Debug\H2T_grp.exe
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\bin\Debug\Barcode.dll
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\bin\Debug\office.dll
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\bin\Debug\Interop.Excel.dll
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\bin\Debug\Barcode.pdb
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\bin\Debug\office.xml
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\source huy\SHOWROOM_BL\H2T_grp - su\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\source huy\H2T_grp_navbar\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\source huy\H2T_grp_navbar\H2T_grp\obj\Debug\H2T_grp.exe
+D:\source huy\H2T_grp_navbar\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\source huy\H2T_grp_navbar\H2T_grp\bin\Debug\H2T_grp.exe
+D:\source huy\H2T_grp_navbar\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\source huy\H2T_grp_navbar\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\source huy\H2T_grp_navbar\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+D:\source huy\H2T_grp_navbar\H2T_grp\bin\Debug\Barcode.dll
+D:\source huy\H2T_grp_navbar\H2T_grp\bin\Debug\Interop.Excel.dll
+D:\source huy\H2T_grp_navbar\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+D:\source huy\H2T_grp_navbar\H2T_grp\bin\Debug\Barcode.pdb
+D:\source huy\H2T_grp_navbar\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\source huy\H2T_grp_navbar\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+D:\source huy\H2T_grp_navbar\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\source huy\H2T_grp_navbar\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\source huy\H2T_grp_navbar\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\source huy\H2T_grp_navbar\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\source huy\H2T_grp_navbar\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\source huy\H2T_grp_navbar\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\source huy\H2T_grp_navbar\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\source huy\H2T_grp_navbar_use\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\source huy\H2T_grp_navbar_use\H2T_grp\obj\Debug\H2T_grp.exe
+D:\source huy\H2T_grp_navbar_use\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\source huy\H2T_grp_navbar_use\H2T_grp\bin\Debug\H2T_grp.exe
+D:\source huy\H2T_grp_navbar_use\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\source huy\H2T_grp_navbar_use\H2T_grp\bin\Debug\Barcode.dll
+D:\source huy\H2T_grp_navbar_use\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\source huy\H2T_grp_navbar_use\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+D:\source huy\H2T_grp_navbar_use\H2T_grp\bin\Debug\Interop.Excel.dll
+D:\source huy\H2T_grp_navbar_use\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+D:\source huy\H2T_grp_navbar_use\H2T_grp\bin\Debug\Barcode.pdb
+D:\source huy\H2T_grp_navbar_use\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\source huy\H2T_grp_navbar_use\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+D:\source huy\H2T_grp_navbar_use\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\source huy\H2T_grp_navbar_use\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\source huy\H2T_grp_navbar_use\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\source huy\H2T_grp_navbar_use\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\source huy\H2T_grp_navbar_use\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\source huy\H2T_grp_navbar_use\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\source huy\H2T_grp_navbar_use\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.exe
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.exe
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Barcode.dll
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Interop.Excel.dll
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Barcode.pdb
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\Source\New folder\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Interop.ADOX.dll
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.exe
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.exe
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Barcode.dll
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\office.dll
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Interop.ADOX.dll
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Interop.Excel.dll
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Barcode.pdb
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\office.xml
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.exe
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.exe
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Barcode.dll
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Interop.ADOX.dll
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Interop.Excel.dll
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Barcode.pdb
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\Source\Soure _Tem\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.exe
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.exe
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Barcode.dll
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Interop.ADOX.dll
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Interop.Excel.dll
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Barcode.pdb
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\Source\ScaX_ShowRom_New\ShowRoom Code\ShowRoom Code\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.exe.config
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.exe
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.csprojResolveAssemblyReference.cache
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.exe
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_grp.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Barcode.dll
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_QuanTri.dll
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Interop.Excel.dll
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Interop.ADOX.dll
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Debug\Barcode.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_grp.exe.config
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_grp.exe
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_grp.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\Barcode.dll
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_BaseSys.dll
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_QuanTri.dll
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\MaskedTextBox.dll
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\Interop.ADOX.dll
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\Barcode.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_BaseSys.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\MaskedTextBox.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.csprojResolveAssemblyReference.cache
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.exe
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_grp.exe
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\Barcode.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_BaseSys.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_Planning.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\MaskedTextBox.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\Interop.ADOX.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\Barcode.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_BaseSys.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\H2T_Planning.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\bin\Debug\MaskedTextBox.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.csprojResolveAssemblyReference.cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.exe
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.exe
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_grp.exe
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\Barcode.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_BaseSys.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_Planning.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\MaskedTextBox.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\Interop.ADOX.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\Barcode.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_BaseSys.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_Planning.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\MaskedTextBox.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.csprojResolveAssemblyReference.cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.exe
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_grp.exe
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\Barcode.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_BaseSys.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_Planning.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_SHOWROOM.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\MaskedTextBox.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\Interop.ADOX.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_SHOWROOM.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\Barcode.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_BaseSys.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\H2T_Planning.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\bin\Debug\MaskedTextBox.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.csprojResolveAssemblyReference.cache
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\obj\Debug\H2T_grp.exe
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\bin\Debug\H2T_grp.exe
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\bin\Debug\Barcode.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\bin\Debug\H2T_BaseSys.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\bin\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\bin\Debug\Barcode.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\bin\Debug\H2T_BaseSys.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\bin\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\obj\Debug\H2T_grp.csprojResolveAssemblyReference.cache
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\H2T_grp.exe
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\H2T_BaseSys.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\H2T_BaseSys.pdb
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.Cache
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.exe
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.csprojAssemblyReference.cache
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.csproj.CoreCompileInputs.cache
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Data.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Utils.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraBars.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraNavBar.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraReports.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Shared.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Office.v14.1.Core.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraCharts.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Charts.v14.1.Core.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.PivotGrid.v14.1.Core.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.RichEdit.v14.1.Core.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraGauges.v14.1.Core.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Licensing.KeycodeDecoder.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\stdole.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.PluginManager.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Enterprise.Sdk.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.Viewing.ReportSource.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\log4net.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Data.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Utils.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraBars.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraNavBar.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraReports.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Office.v14.1.Core.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraCharts.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.PivotGrid.v14.1.Core.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.RichEdit.v14.1.Core.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraGauges.v14.1.Core.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.Framework.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.InfoStore.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.PluginManager.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.Viewing.ReportSource.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraNavBar.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraNavBar.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraNavBar.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraNavBar.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraReports.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraReports.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraReports.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraReports.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\zh-chs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\zh-cht\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\zh-chs\CrystalDecisions.Windows.Forms.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\zh-cht\CrystalDecisions.Windows.Forms.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\zh-chs\CrystalDecisions.Shared.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\zh-cht\CrystalDecisions.Shared.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Office.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Office.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Office.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Office.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraCharts.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraCharts.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraCharts.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraCharts.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.PivotGrid.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.PivotGrid.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.PivotGrid.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.PivotGrid.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraGauges.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraGauges.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraGauges.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraGauges.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\zh-chs\CrystalDecisions.ReportSource.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\zh-cht\CrystalDecisions.ReportSource.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Enterprise.Sdk.netmodule
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Enterprise.Sdk.Ssl.netmodule
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Enterprise.Sdk.ZipLib.netmodule
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.csproj.CopyComplete
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\H2T_grp.exe.config
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\H2T_grp.exe
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\H2T_grp.pdb
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Data.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Utils.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraBars.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraNavBar.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\H2T_BaseSys.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\H2T_Material.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\H2T_QuanTri.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraReports.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Shared.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Office.v14.1.Core.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraCharts.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Charts.v14.1.Core.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.PivotGrid.v14.1.Core.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.RichEdit.v14.1.Core.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraGauges.v14.1.Core.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Licensing.KeycodeDecoder.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportSource.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\stdole.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.PluginManager.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Enterprise.Sdk.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.Viewing.ReportSource.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\log4net.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Data.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Utils.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraBars.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraNavBar.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\H2T_BaseSys.pdb
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\H2T_Material.pdb
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraReports.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Office.v14.1.Core.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraCharts.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.PivotGrid.v14.1.Core.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.RichEdit.v14.1.Core.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraGauges.v14.1.Core.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.Framework.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.InfoStore.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.PluginManager.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.Viewing.ReportSource.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraNavBar.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraNavBar.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraNavBar.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraNavBar.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraReports.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraReports.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraReports.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraReports.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\zh-chs\CrystalDecisions.CrystalReports.Engine.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\zh-cht\CrystalDecisions.CrystalReports.Engine.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\zh-chs\CrystalDecisions.Windows.Forms.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\zh-cht\CrystalDecisions.Windows.Forms.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\zh-chs\CrystalDecisions.Shared.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\zh-cht\CrystalDecisions.Shared.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Office.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Office.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Office.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Office.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraCharts.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraCharts.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraCharts.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraCharts.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.PivotGrid.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.PivotGrid.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.PivotGrid.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.PivotGrid.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.RichEdit.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.RichEdit.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.RichEdit.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.RichEdit.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraGauges.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraGauges.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraGauges.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraGauges.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\zh-chs\CrystalDecisions.ReportSource.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\zh-cht\CrystalDecisions.ReportSource.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Enterprise.Sdk.netmodule
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Enterprise.Sdk.Ssl.netmodule
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Enterprise.Sdk.ZipLib.netmodule
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.csprojAssemblyReference.cache
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.cache
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.exe.licenses
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.csproj.CoreCompileInputs.cache
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.csproj.CopyComplete
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.exe
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.pdb
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\H2T_grp.exe.config
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\H2T_grp.exe
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\H2T_grp.pdb
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\H2T_BaseSys.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\H2T_Material.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\H2T_QuanTri.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraReports.v14.1.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Shared.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Office.v14.1.Core.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraCharts.v14.1.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Charts.v14.1.Core.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.PivotGrid.v14.1.Core.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.RichEdit.v14.1.Core.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraGauges.v14.1.Core.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Licensing.KeycodeDecoder.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\stdole.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.PluginManager.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Enterprise.Sdk.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.Viewing.ReportSource.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\log4net.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Data.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Utils.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraBars.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraNavBar.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\H2T_BaseSys.pdb
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\H2T_Material.pdb
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\H2T_QuanTri.pdb
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraReports.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.Office.v14.1.Core.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraCharts.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.PivotGrid.v14.1.Core.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.RichEdit.v14.1.Core.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\DevExpress.XtraGauges.v14.1.Core.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.Framework.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.InfoStore.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.PluginManager.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\CrystalDecisions.Enterprise.Viewing.ReportSource.xml
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraNavBar.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraNavBar.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraNavBar.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraNavBar.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraReports.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraReports.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraReports.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraReports.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\zh-chs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\zh-cht\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\zh-chs\CrystalDecisions.Windows.Forms.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\zh-cht\CrystalDecisions.Windows.Forms.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\zh-chs\CrystalDecisions.Shared.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\zh-cht\CrystalDecisions.Shared.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.Office.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.Office.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.Office.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.Office.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraCharts.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraCharts.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraCharts.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraCharts.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.PivotGrid.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.PivotGrid.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.PivotGrid.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.PivotGrid.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\DevExpress.XtraGauges.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\DevExpress.XtraGauges.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\DevExpress.XtraGauges.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ru\DevExpress.XtraGauges.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\zh-chs\CrystalDecisions.ReportSource.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\zh-cht\CrystalDecisions.ReportSource.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Enterprise.Sdk.netmodule
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Enterprise.Sdk.Ssl.netmodule
+D:\FVN_Project\framas 2015_Import file\H2T_grp\bin\Debug\BusinessObjects.Enterprise.Sdk.ZipLib.netmodule
+D:\FVN_Project\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.csprojAssemblyReference.cache
+D:\FVN_Project\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.frm_DangNhap.resources
+D:\FVN_Project\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.frm_Home.resources
+D:\FVN_Project\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.frm_Main.resources
+D:\FVN_Project\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.frm_WelCome.resources
+D:\FVN_Project\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.Properties.Resources.resources
+D:\FVN_Project\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.csproj.GenerateResource.cache
+D:\FVN_Project\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.csproj.CopyComplete
+D:\FVN_Project\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.exe
+D:\FVN_Project\framas 2015_Import file\H2T_grp\obj\Debug\H2T_grp.pdb

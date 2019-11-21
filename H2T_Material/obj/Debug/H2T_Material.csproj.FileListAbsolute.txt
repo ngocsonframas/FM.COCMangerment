@@ -1,0 +1,335 @@
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\bin\Debug\H2T_Material.dll
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\bin\Debug\H2T_Material.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.dll
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.csprojResolveAssemblyReference.cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\bin\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\bin\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\bin\Debug\H2T_BaseSys.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\bin\Debug\H2T_BaseSys.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.csprojResolveAssemblyReference.cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.dlg_CopyExtension.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.dlg_Item.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.frm_BoMAE.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.frm_BomHeader.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.frm_ItemColorSize.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.WaitFormG.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.csproj.GenerateResource.Cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.dll.licenses
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Debug\H2T_Material.dlg_BoMSizeColor.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\bin\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\bin\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\bin\Debug\H2T_BaseSys.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\bin\Debug\H2T_BaseSys.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.csprojResolveAssemblyReference.cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.dlg_BoMSizeColor.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.dlg_CopyExtension.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.dlg_Item.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.frm_BoMAE.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.frm_BomHeader.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.frm_ItemColorSize.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.WaitFormG.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.csproj.GenerateResource.Cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.dll.licenses
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\bin\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\bin\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\bin\Debug\H2T_BaseSys.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\bin\Debug\H2T_BaseSys.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.csprojResolveAssemblyReference.cache
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.dlg_BoMSizeColor.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.dlg_CopyExtension.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.dlg_Item.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.frm_BoMAE.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.frm_BomHeader.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.frm_ItemColorSize.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.WaitFormG.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.csproj.GenerateResource.Cache
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.dll.licenses
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.frm_MRP.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_PPIC\H2T_Material\obj\Debug\H2T_Material.dlg_Order.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\bin\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\bin\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\bin\Debug\H2T_BaseSys.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\bin\Debug\H2T_BaseSys.pdb
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.csprojResolveAssemblyReference.cache
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.dlg_BoMSizeColor.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.dlg_CopyExtension.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.dlg_Item.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.dlg_Order.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.frm_BoMAE.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.frm_BomHeader.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.frm_ItemColorSize.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.frm_MRP.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.frm_OrderFile.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.WaitForm1.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.WaitFormG.resources
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.csproj.GenerateResource.Cache
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.dll.licenses
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code\Code Application\H2T_grp 2012_Import file\H2T_Material\obj\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\H2T_BaseSys.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\H2T_BaseSys.pdb
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.dlg_BoMSizeColor.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.dlg_CopyExtension.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.dlg_Item.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.dlg_Order.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.frm_BoMAE.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.frm_BomHeader.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.frm_ItemColorSize.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.frm_MRP.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.frm_OrderFile.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.WaitForm1.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.WaitFormG.resources
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.csproj.GenerateResource.Cache
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.dll.licenses
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.pdb
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.csprojAssemblyReference.cache
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Data.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Utils.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.RichEdit.v14.1.Core.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraBars.v14.1.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Office.v14.1.Core.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Data.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Utils.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.RichEdit.v14.1.Core.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraBars.v14.1.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Office.v14.1.Core.xml
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Office.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Office.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Office.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Office.v14.1.Core.resources.dll
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.csproj.CoreCompileInputs.cache
+D:\Huy\Source code HT\Source code\Code Application\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.csproj.CopyComplete
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\H2T_Material.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\H2T_Material.pdb
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Data.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Utils.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\H2T_BaseSys.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.RichEdit.v14.1.Core.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraBars.v14.1.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Office.v14.1.Core.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Data.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Utils.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\H2T_BaseSys.pdb
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.RichEdit.v14.1.Core.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraBars.v14.1.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Office.v14.1.Core.xml
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.RichEdit.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.RichEdit.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.RichEdit.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.RichEdit.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Office.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Office.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Office.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Office.v14.1.Core.resources.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.csprojAssemblyReference.cache
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.dlg_Item.resources
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.dlg_Order.resources
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.frm_OrderFile.resources
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.WaitForm1.resources
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.WaitFormG.resources
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.csproj.GenerateResource.cache
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.dll.licenses
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.csproj.CoreCompileInputs.cache
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.csproj.CopyComplete
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.dll
+J:\Source Code\1.Code\7.WindowForm\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.pdb
+D:\FVN_Project\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.csprojAssemblyReference.cache
+D:\FVN_Project\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.dlg_Item.resources
+D:\FVN_Project\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.dlg_Order.resources
+D:\FVN_Project\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.frm_OrderFile.resources
+D:\FVN_Project\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.WaitForm1.resources
+D:\FVN_Project\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.WaitFormG.resources
+D:\FVN_Project\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.csproj.GenerateResource.cache
+D:\FVN_Project\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.pdb
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\H2T_Material.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\H2T_Material.pdb
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\H2T_BaseSys.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.RichEdit.v14.1.Core.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraBars.v14.1.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Office.v14.1.Core.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Data.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Utils.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\H2T_BaseSys.pdb
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.RichEdit.v14.1.Core.xml
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.XtraBars.v14.1.xml
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\DevExpress.Office.v14.1.Core.xml
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.RichEdit.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\de\DevExpress.Office.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\es\DevExpress.Office.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ja\DevExpress.Office.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\bin\Debug\ru\DevExpress.Office.v14.1.Core.resources.dll
+D:\FVN_Project\framas 2015_Import file\H2T_Material\obj\Debug\H2T_Material.csproj.CopyComplete

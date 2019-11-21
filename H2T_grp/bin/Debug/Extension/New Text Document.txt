@@ -1,0 +1,6 @@
+workstation id=fantachiro-pc\fantachiro;packet size=4096;integrated security=SSPI;data source=FANTACHIRO-PC\SQLEXPRESS;persist security info=False;initial catalog=H2T
+;Connect Timeout=3600000
+
+SCAVI00390\SQLEXPRESS
+---
+Data Source=scaviBL00003;Initial Catalog=ScaviBL;User ID=Scagbl;Password=scagbl;Connect Timeout=3600000

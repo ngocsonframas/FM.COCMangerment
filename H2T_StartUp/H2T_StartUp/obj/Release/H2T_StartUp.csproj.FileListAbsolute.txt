@@ -1,0 +1,32 @@
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_StartUp\H2T_StartUp\bin\Release\H2T_StartUp.exe
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_StartUp\H2T_StartUp\bin\Release\H2T_StartUp.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_StartUp\H2T_StartUp\obj\Release\H2T_StartUp.Form1.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_StartUp\H2T_StartUp\obj\Release\H2T_StartUp.Properties.Resources.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_StartUp\H2T_StartUp\obj\Release\H2T_StartUp.csproj.GenerateResource.Cache
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_StartUp\H2T_StartUp\obj\Release\H2T_StartUp.exe
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_StartUp\H2T_StartUp\obj\Release\H2T_StartUp.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\H2T_StartUp.exe.config
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\H2T_StartUp.exe
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\H2T_StartUp.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\H2T_BaseSys.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\H2T_grp.exe
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\H2T_QuanTri.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\H2T_SHOWROOM.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\Xceed.SmartUI.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\Xceed.SmartUI.Controls.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\Barcode.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\MaskedTextBox.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\Interop.ADOX.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\Xceed.SmartUI.UIStyle.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\H2T_BaseSys.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\H2T_grp.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\H2T_QuanTri.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\H2T_SHOWROOM.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\Barcode.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\bin\Release\MaskedTextBox.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\obj\Release\H2T_StartUp.csprojResolveAssemblyReference.cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\obj\Release\H2T_StartUp.Form1.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\obj\Release\H2T_StartUp.Properties.Resources.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\obj\Release\H2T_StartUp.csproj.GenerateResource.Cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\obj\Release\H2T_StartUp.exe
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_StartUp\H2T_StartUp\obj\Release\H2T_StartUp.pdb

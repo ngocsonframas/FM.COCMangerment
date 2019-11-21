@@ -1,0 +1,9 @@
+MaNV	String	9	
+TenNV	String	50	
+MatMa	String	4000	
+NgaySinh	String	10	
+ChuKy	BLOB		
+MaCV	Number		
+ChucVu	String	50	
+MaPB	Number		
+DonVi	String	50	

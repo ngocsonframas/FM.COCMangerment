@@ -1,0 +1,10 @@
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\bin\Release\H2T_Material.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\bin\Release\H2T_Material.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\bin\Release\H2T_BaseSys.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\bin\Release\H2T_BaseSys.pdb
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Release\H2T_Material.csprojResolveAssemblyReference.cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Release\H2T_Material.frm_ItemColorSize.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Release\H2T_Material.csproj.GenerateResource.Cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Release\H2T_Material.dll.licenses
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Release\H2T_Material.dll
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_Material\obj\Release\H2T_Material.pdb

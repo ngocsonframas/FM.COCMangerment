@@ -1,0 +1,31 @@
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Release\H2T_grp.exe.config
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Release\H2T_grp.exe
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\bin\Release\H2T_grp.pdb
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Release\ResolveAssemblyReference.cache
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Release\H2T_grp.frm_DangNhap.resources
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Release\H2T_grp.frm_Home.resources
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Release\H2T_grp.frm_Main.resources
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Release\H2T_grp.frm_WelCome.resources
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Release\H2T_grp.Properties.Resources.resources
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Release\H2T_grp.csproj.GenerateResource.Cache
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Release\H2T_grp.exe
+E:\doing\viet phan mem ket noi + quan tri chung\H2T_grp\H2T_grp\obj\Release\H2T_grp.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\bin\Release\H2T_grp.exe.config
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Release\H2T_grp.exe
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Release\H2T_grp.pdb
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Release\H2T_grp.csprojResolveAssemblyReference.cache
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Release\H2T_grp.frm_DangNhap.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Release\H2T_grp.frm_Home.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Release\H2T_grp.frm_Main.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Release\H2T_grp.frm_WelCome.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Release\H2T_grp.Properties.Resources.resources
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Release\H2T_grp.csproj.GenerateResource.Cache
+F:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp_navbar_use_BH_BL\H2T_grp\obj\Release\H2T_grp.exe.licenses
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Release\H2T_grp.csprojResolveAssemblyReference.cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Release\H2T_grp.frm_DangNhap.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Release\H2T_grp.frm_Home.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Release\H2T_grp.frm_Main.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Release\H2T_grp.frm_WelCome.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Release\H2T_grp.Properties.Resources.resources
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Release\H2T_grp.csproj.GenerateResource.Cache
+D:\Huy\Source code HT\Source code phan mem access + sql server\Code Application\H2T_grp 2012\H2T_grp\obj\Release\H2T_grp.exe.licenses

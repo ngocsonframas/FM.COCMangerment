@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DF9E43EB-87B3-434C-B8BB-2D399A52AD33}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>H2T_grp</RootNamespace>
+    <AssemblyName>H2T_grp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Barcode, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Barcode\bin\Debug\Barcode.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v14.1.Core, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="FarPoint.CalcEngine, Version=4.0.3522.2008, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FarPoint.CalcEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="FarPoint.Excel, Version=4.0.3522.2008, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FarPoint.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="FarPoint.PDF, Version=4.0.3522.2008, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FarPoint.PDF.dll</HintPath>
+    </Reference>
+    <Reference Include="FarPoint.PluginCalendar.WinForms, Version=4.0.3522.2008, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FarPoint.PluginCalendar.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="FarPoint.Win, Version=4.0.3522.2008, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FarPoint.Win.dll</HintPath>
+    </Reference>
+    <Reference Include="FarPoint.Win.Spread, Version=4.0.3522.2008, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FarPoint.Win.Spread.dll</HintPath>
+    </Reference>
+    <Reference Include="FarPoint.Win.Spread.Design, Version=4.0.3522.2008, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FarPoint.Win.Spread.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="H2T_BaseSys, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\H2T_BaseSys.dll</HintPath>
+    </Reference>
+    <Reference Include="H2T_Material">
+      <HintPath>..\H2T_Material\bin\Debug\H2T_Material.dll</HintPath>
+    </Reference>
+    <Reference Include="H2T_Planning">
+      <HintPath>..\H2T_Planning\bin\Debug\H2T_Planning.dll</HintPath>
+    </Reference>
+    <Reference Include="H2T_QuanTri, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\H2T_QuanTri.dll</HintPath>
+    </Reference>
+    <Reference Include="H2T_SHOWROOM, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\H2T_SHOWROOM\bin\Debug\H2T_SHOWROOM.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Xceed.SmartUI, Version=3.5.9417.12000, Culture=neutral, PublicKeyToken=ba83ff368b7563c6" />
+    <Reference Include="Xceed.SmartUI.Controls, Version=3.5.9417.12000, Culture=neutral, PublicKeyToken=ba83ff368b7563c6, processorArchitecture=MSIL" />
+    <Reference Include="Xceed.SmartUI.UIStyle, Version=3.5.9417.12000, Culture=neutral, PublicKeyToken=ba83ff368b7563c6" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\Cls_EnDeCrypt.cs" />
+    <Compile Include="Class\Cls_FileINI.cs" />
+    <Compile Include="Cls_H2T.cs" />
+    <Compile Include="Cls_HamTuTao.cs" />
+    <Compile Include="Cls_Main.cs" />
+    <Compile Include="Control\Contr_DangNhap.cs" />
+    <Compile Include="Control\Contr_frm_Main.cs" />
+    <Compile Include="frm_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_DangNhap.Designer.cs">
+      <DependentUpon>frm_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Home.Designer.cs">
+      <DependentUpon>frm_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Main.Designer.cs">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_WelCome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_WelCome.designer.cs">
+      <DependentUpon>frm_WelCome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Info\info_DangNhap.cs" />
+    <Compile Include="Info\info_frm_Main.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_DangNhap.resx">
+      <DependentUpon>frm_DangNhap.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Home.resx">
+      <DependentUpon>frm_Home.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Main.resx">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_WelCome.resx">
+      <DependentUpon>frm_WelCome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="image\Untitled-1.psd" />
+    <None Include="image\Untitled-2.psd" />
+    <None Include="image\Untitled-3.psd" />
+    <None Include="image\Untitled-4.psd" />
+    <None Include="image\vssver2.scc" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\ShoppingCart.ico" />
+    <None Include="image\Scagarment.ico" />
+    <None Include="image\wlm.png" />
+    <None Include="image\wizard_16x16.png" />
+    <None Include="image\wire-transfer-icon.png" />
+    <None Include="image\watchVideo.png" />
+    <None Include="image\VPermissionLine.png" />
+    <None Include="image\voice_chat.png" />
+    <None Include="image\viewbutton.png" />
+    <None Include="image\video_chat.png" />
+    <None Include="image\Very-Basic-clock-icon.png" />
+    <None Include="image\VerticalLine_1.png" />
+    <None Include="image\verticalLine.png" />
+    <None Include="image\VBVLine.png" />
+    <None Include="image\vBarcode41.jpg" />
+    <None Include="image\vBarcode.jpg" />
+    <None Include="image\user-group-icon_32.png" />
+    <None Include="image\user-group-icon_24.png" />
+    <None Include="image\user_parent.png" />
+    <None Include="image\user_child.png" />
+    <None Include="image\Upload-Information-icon.png" />
+    <None Include="image\Unknown-user.png" />
+    <None Include="image\Truck-with-Site-Office-icon.png" />
+    <None Include="image\Time-Timer-icon.png" />
+    <None Include="image\thoat.png" />
+    <None Include="image\team_16x16.png" />
+    <None Include="image\table-import-icon.png" />
+    <None Include="image\switchtimescalesto_16x16.png" />
+    <None Include="image\Status-dialog-warning-icon.png" />
+    <None Include="image\Sign-Info-icon.png" />
+    <None Include="image\showworktimeonly_16x16.png" />
+    <None Include="image\Shopping-delivery-icon.png" />
+    <None Include="image\Settings-icon.png" />
+    <None Include="image\server.png" />
+    <None Include="image\Search_image.png" />
+    <None Include="image\ScreenH2T.jpg" />
+    <None Include="image\SCREEN_NEW.jpg" />
+    <None Include="image\Scavi Logo_Final.png" />
+    <None Include="image\Scavi Logo_f.png" />
+    <None Include="image\Scavi Logo.jpg" />
+    <None Include="image\savepagesetup_16x16.png" />
+    <None Include="image\saveall_16x16.png" />
+    <None Include="image\Save1.png" />
+    <None Include="image\save_01.png" />
+    <None Include="image\001_20.png" />
+    <None Include="image\011.jpg" />
+    <None Include="image\012.jpg" />
+    <None Include="image\16.jpg" />
+    <None Include="image\17.jpg" />
+    <None Include="image\144.jpg" />
+    <None Include="image\195-barcode-icon.png" />
+    <None Include="image\1400231715_Add.png" />
+    <None Include="image\1400231837_Delete.png" />
+    <None Include="image\1402651029_stock_new-meeting.png" />
+    <None Include="image\1404754495_fileclose.png" />
+    <None Include="image\1406717444_quantity_capsule_5.png" />
+    <None Include="image\20140606020411133_easyicon_net_24.png" />
+    <None Include="image\20140606020434276_easyicon_net_24.png" />
+    <None Include="image\Actions-arrow.png" />
+    <None Include="image\Actions-dialog-close-icon.png" />
+    <None Include="image\Actions-dialog-ok-icon.png" />
+    <None Include="image\Actions-document-export-icon.png" />
+    <None Include="image\Actions-edit-clear-history-icon.png" />
+    <None Include="image\Actions-go-first-view-icon.png" />
+    <None Include="image\Actions-go-first-view-icon_32.png" />
+    <None Include="image\Actions-go-last-view-icon.png" />
+    <None Include="image\Actions-go-last-view-icon_32.png" />
+    <None Include="image\Actions-go-next-view-icon.png" />
+    <None Include="image\Actions-go-next-view-icon_32.png" />
+    <None Include="image\Actions-go-previous-view-icon.png" />
+    <None Include="image\Actions-go-previous-view-icon_32.png" />
+    <None Include="image\add-user-icon_32.png" />
+    <Content Include="image\add.png" />
+    <None Include="image\add_user.png" />
+    <None Include="image\addP.png" />
+    <None Include="image\agt_update_recommended1.png" />
+    <None Include="image\application-form-add-icon.png" />
+    <None Include="image\Apps-system-software-update-icon.png" />
+    <None Include="image\Apps-system-software-update-icon_18.png" />
+    <None Include="image\arrow_redo.png" />
+    <None Include="image\arrow_undo.png" />
+    <None Include="image\arrow-right-icon.png" />
+    <None Include="image\bacground_sql_2.bmp" />
+    <None Include="image\bacground_sql_2_0.bmp" />
+    <Content Include="image\Backgroud.png" />
+    <None Include="image\backgroudFormSQL.bmp" />
+    <None Include="image\backgroundBusiness.png" />
+    <None Include="image\backgroundFinal.png" />
+    <None Include="image\backgroundFinalS.png" />
+    <None Include="image\backgroundFinalSFF.png" />
+    <None Include="image\backgroundFinalSFFFull.png" />
+    <None Include="image\backgroundMain.png" />
+    <None Include="image\Basic-Plus-icon.png" />
+    <None Include="image\bgChartFinal.png" />
+    <None Include="image\bgF.png" />
+    <None Include="image\bgSQL.bmp" />
+    <None Include="image\bgSQLF.png" />
+    <None Include="image\bgWhite.bmp" />
+    <None Include="image\Bloc-notes-icon.png" />
+    <None Include="image\Box-icon.png" />
+    <None Include="image\cancel.png" />
+    <None Include="image\cellsautoheight-_16x16.png" />
+    <None Include="image\check_metro_check.png" />
+    <None Include="image\check_metro_check_1.jpg" />
+    <None Include="image\check_metro_nocheck.png" />
+    <None Include="image\check_metro_nocheck_1.jpg" />
+    <None Include="image\checkbox_empty.png" />
+    <None Include="image\checkbox_empty_15.jpg" />
+    <None Include="image\checkbox_empty_18.jpg" />
+    <None Include="image\checkbox_full.png" />
+    <None Include="image\checkbox_full_15.jpg" />
+    <None Include="image\checkbox_full_18.jpg" />
+    <None Include="image\christmas-tree-2-icon.png" />
+    <None Include="image\Christmas-tree-icon.png" />
+    <None Include="image\christmas-tree-icon_1.png" />
+    <None Include="image\Clock-icon.png" />
+    <None Include="image\close_16x16.png" />
+    <None Include="image\closed_folder.png" />
+    <None Include="image\close-group_1.png" />
+    <None Include="image\coins-icon.png" />
+    <None Include="image\ColorMixer_32x32.png" />
+    <None Include="image\colors_16x16.png" />
+    <None Include="image\colors_32x32.png" />
+    <None Include="image\Company-icon.png" />
+    <None Include="image\Company-icon_24_24.png" />
+    <None Include="image\Computer-icon.png" />
+    <None Include="image\contract_pencil.png" />
+    <None Include="image\contract_pencil_24x24.png" />
+    <None Include="image\copy.png" />
+    <None Include="image\copy_32_32.png" />
+    <None Include="image\CORELE.png" />
+    <None Include="image\CORELEFINALFULL.png" />
+    <None Include="image\CORELEFINALFULL_1.png" />
+    <None Include="image\CORELELOGO.png" />
+    <None Include="image\corporate-business-banner.png" />
+    <None Include="image\customization_16x16.png" />
+    <None Include="image\custom-reports-icon.png" />
+    <None Include="image\data-add-icon.png" />
+    <None Include="image\Database-Active-icon.png" />
+    <None Include="image\database-add-icon_1.png" />
+    <None Include="image\database-check-icon.png" />
+    <None Include="image\database-process-icon_2.png" />
+    <None Include="image\database-search-icon.png" />
+    <None Include="image\data-edit-icon.png" />
+    <None Include="image\del1_icon.png" />
+    <None Include="image\delete_32_32.png" />
+    <None Include="image\Developer-icon.png" />
+    <None Include="image\Developer-icon_1.jpg" />
+    <None Include="image\DLL-icon.png" />
+    <None Include="image\document-contract-icon.png" />
+    <None Include="image\document-excel-icon.png" />
+    <None Include="image\Document-scheduled-tasks-icon.png" />
+    <None Include="image\Document-txt-icon.png" />
+    <None Include="image\dollar_currency_sign.png" />
+    <None Include="image\Draft.jpg" />
+    <None Include="image\drilldownonarguments_chart_16x16.png" />
+    <None Include="image\edit_add.png" />
+    <None Include="image\editcontact_16x16.png" />
+    <None Include="image\editP.png" />
+    <None Include="image\email-send-icon.png" />
+    <None Include="image\excel_2003_2_01.png" />
+    <None Include="image\CHECKMRK.ICO" />
+    <None Include="image\CLOSE.ico" />
+    <None Include="image\copy.ico" />
+    <None Include="image\CORELE.ico" />
+    <None Include="image\DELETE.ico" />
+    <Content Include="image\exit.png" />
+    <None Include="image\Exitimage.png" />
+    <None Include="image\export_icon_32.png" />
+    <None Include="image\ExportData.png" />
+    <None Include="image\file_export.png" />
+    <None Include="image\file_export_20.png" />
+    <None Include="image\fileclose_10.png" />
+    <None Include="image\file-extension-dll-icon.png" />
+    <None Include="image\file-import-20.png" />
+    <None Include="image\folder-documents-icon.png" />
+    <None Include="image\Folder-Group-icon.png" />
+    <None Include="image\folder-yellow-Close-icon.png" />
+    <None Include="image\folder-yellow-open-icon.png" />
+    <None Include="image\gnome_panel_force_quit.png" />
+    <None Include="image\gnome_stock_person.png" />
+    <None Include="image\groupevent.png" />
+    <None Include="image\gtk_refresh.png" />
+    <None Include="image\hBarcode.jpg" />
+    <None Include="image\hBarcode202.jpg" />
+    <None Include="image\HBVLine.png" />
+    <None Include="image\Hide_blue_arrow_down.png" />
+    <None Include="image\hookshap1.png" />
+    <None Include="image\hookshap2.png" />
+    <None Include="image\hooksharp.png" />
+    <None Include="image\HorinalLine.png" />
+    <None Include="image\HorinalLine_1.png" />
+    <None Include="image\hPanelLine.png" />
+    <None Include="image\hPanelLine1.png" />
+    <None Include="image\HPermissionLine.png" />
+    <None Include="image\HP-Recycle-Empty-icon.png" />
+    <None Include="image\HP-Recycle-Full-icon.png" />
+    <None Include="image\ic_finance_bulding_16.png" />
+    <None Include="image\iconH2T.gif" />
+    <None Include="image\ide_16x16.png" />
+    <None Include="image\imageconfig.png" />
+    <None Include="image\Increase-icon.png" />
+    <None Include="image\industry-icon.png" />
+    <None Include="image\information-icon.png" />
+    <None Include="image\key-icon.png" />
+    <None Include="image\login_1234.png" />
+    <None Include="image\login_new_1.png" />
+    <None Include="image\login2_1.png" />
+    <None Include="image\Login-icon.png" />
+    <None Include="image\LoginPanelWindows8.jpg" />
+    <None Include="image\logo_Scavi.png" />
+    <None Include="image\logonFinal.png" />
+    <None Include="image\logoscavi.png" />
+    <None Include="image\logout_01.png" />
+    <None Include="image\logout_1234.png" />
+    <None Include="image\logout_12345678.png" />
+    <None Include="image\logout1.png" />
+    <None Include="image\mail_16x16.png" />
+    <None Include="image\maintenance-icon.png" />
+    <None Include="image\man-icon.png" />
+    <None Include="image\Map-Marker-Marker-Inside-Chartreuse-icon.png" />
+    <None Include="image\Map-Marker-Push-Pin-1-Left-Azure-icon.png" />
+    <None Include="image\menu-icon.png" />
+    <None Include="image\Mimetype-schedule-icon.png" />
+    <None Include="image\Mimetypes-ini-icon.png" />
+    <None Include="image\Misc-Graphics-icon.png" />
+    <None Include="image\Misc-Web-Database-icon.png" />
+    <None Include="image\money-bag-icon.png" />
+    <None Include="image\move.png" />
+    <None Include="image\move_32_32.png" />
+    <None Include="image\new-file-icon_20.png" />
+    <None Include="image\Notepad-Bloc-notes-2-icon.png" />
+    <None Include="image\Notepad-Bloc-notes-icon.png" />
+    <None Include="image\Number-0-icon.png" />
+    <None Include="image\Number-1-icon.png" />
+    <None Include="image\Number-2-icon.png" />
+    <None Include="image\Number-3-icon.png" />
+    <None Include="image\Number-4-icon.png" />
+    <None Include="image\Number-5-icon.png" />
+    <None Include="image\Number-6-icon.png" />
+    <None Include="image\Number-7-icon.png" />
+    <None Include="image\Number-8-icon.png" />
+    <None Include="image\Number-9-icon.png" />
+    <None Include="image\offersheet.png" />
+    <None Include="image\office-building-icon.png" />
+    <None Include="image\open_folder.png" />
+    <None Include="image\OperationBreakdownExport.png" />
+    <None Include="image\Other-drive-icon.png" />
+    <None Include="image\password-icon.png" />
+    <None Include="image\payment-icon.png" />
+    <None Include="image\pin_blue.png" />
+    <None Include="image\preferences_kcalc_constants.png" />
+    <None Include="image\Process-Accept-icon.png" />
+    <None Include="image\iconH2T.ico" />
+    <None Include="image\move.ico" />
+    <Content Include="image\refresh.png" />
+    <None Include="image\remove_user.png" />
+    <Content Include="image\report.png" />
+    <None Include="image\sales-report-icon.png" />
+    <None Include="image\sales-report-icon_24.png" />
+    <None Include="image\Save-icon_11.png" />
+    <Content Include="image\save.png" />
+    <None Include="image\background_Main.jpg" />
+    <None Include="image\welcome.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
